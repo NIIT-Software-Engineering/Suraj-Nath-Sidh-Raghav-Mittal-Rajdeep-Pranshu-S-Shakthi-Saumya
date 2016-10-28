@@ -3,3 +3,6 @@ Generic Product (Music player with offline Recommendation; Done based on the res
 
 # Requirement Phase Submission
 Please find it in : [Project-Recommend-Submissions](https://github.com/ProjectRecommend/Project-Recommend-Submissions) GitHub Repositery
+
+# Software Design Document 
+[SDD](https://github.com/ProjectRecommend/docs/blob/master/design-docs/final/DesignDocument.md)
