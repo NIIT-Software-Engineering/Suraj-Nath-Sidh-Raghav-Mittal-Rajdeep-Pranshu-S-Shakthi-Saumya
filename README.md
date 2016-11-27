@@ -25,4 +25,22 @@ Generic Product (Music player with offline Recommendation; Done based on the res
 
 -----------------------------------------------
 
+# Final Submission  
+
+- [Theory Practice Corrospondance](https://github.com/ProjectRecommend/docs/blob/master/design-docs/TheoryPracticeCorrespondence/Theory_practice_corrospondance.md)
+- [Coding Matrices](https://github.com/ProjectRecommend/docs/blob/master/design-docs/SoftwareCodingMetrices/CodingMatrices.md)
+- [Test Document](https://github.com/ProjectRecommend/docs/blob/master/design-docs/TestDocuments/Test_document.md)
+- [Customer Feedbacks](https://github.com/ProjectRecommend/docs/blob/master/design-docs/TestimonialsFromCustomersUsers/Feedbacks.md)
+- [Nature of the Customer](https://github.com/ProjectRecommend/docs/blob/master/design-docs/Nature_of_the_customer.md)
+- [Novelty of the Project Idea](https://github.com/ProjectRecommend/docs/blob/master/design-docs/Novelty_of_the_project_idea.md)
+- [Sophistication Value of the Project](https://github.com/ProjectRecommend/docs/blob/master/design-docs/Sophistication_value_of_the_project.md)
+- [Tools Used](https://github.com/ProjectRecommend/docs/blob/master/design-docs/Tools_Used.md)
+- [MOM with Customers](https://github.com/ProjectRecommend/docs/blob/master/design-docs/MOMsWithCustomer/MOM_with_customers.md)
+- [MOM with Team Members](https://github.com/ProjectRecommend/docs/blob/master/design-docs/MOMsWithCustomer/MOM_with_team_members.md)
+- [State Diagram](https://github.com/ProjectRecommend/docs/blob/master/design-docs/images/State_Diagram_PR.jpg)  
+- [ProjectRecommend Repository](https://github.com/ProjectRecommend/Recommend)
+
+-----------------------------------------------  
+
 # [All Documents](https://github.com/ProjectRecommend/docs/tree/master/design-docs)
+# [ProjectRecommend Repository](https://github.com/ProjectRecommend/Recommend)
